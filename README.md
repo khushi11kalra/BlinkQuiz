@@ -5,6 +5,8 @@
 ## 🎓Overview
 
 BlinkQUIZ is a web application for all kinds of users. Users can simply log in to be able to create and join quizzes by sharing the quiz code. There might be lots of quiz-generating applications, but the idea of creating a quiz and then taking it on the same platform and evaluating the students in such an amazingly easier way is quite innovative, where a teacher will create a quiz and have control over its shareability and access. Upon enabling public access, the app will provide a unique and secure quiz code that can be sha#3C84AB with students. Quiz code will be used by students to join the quiz and to avoid anonymous spamming entries. A list of students and their marks in respective quizzes will be sha#3C84AB with the creator/ teacher of the quiz.
+![image](https://github.com/khushi11kalra/BlinkQuiz/assets/110801362/db78bcfc-b47c-4300-b517-da3a35754ece)
+
 
 ## 🚀 Configuration Guidelines
 
